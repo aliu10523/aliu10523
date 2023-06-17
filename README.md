@@ -1,4 +1,4 @@
-### Hi there, I'm Andrew👋
+# Hi there, I'm Andrew👋
 
 ## 💬 About ME
 - I'm getting my BA in computer science at the University of Virginia

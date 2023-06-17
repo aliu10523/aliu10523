@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Andrew👋
 
+## 💬 About ME
+- I'm getting my BA in computer science at the University of Virginia
+- This summer, I'm a software engineering intern at Kerecis
 <!--
-**aliu10523/aliu10523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Skills
+![Alt Text](image_url)
 -->
+## 📫 Contact Me
+[![LinkedIn](https://example.com/linkedin-logo.png)](http://www.linkedin.com/in/andrewjliu)
+
+  

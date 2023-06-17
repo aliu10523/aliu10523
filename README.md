@@ -2,7 +2,7 @@
 
 ## 💬 About ME
 - I'm getting my BA in computer science at the University of Virginia
-- This summer, I'm a software engineer intern at Kerecis
+- I'm interning as a software engineer at Kerecis
 - I'm a full-stack developer
 <!--
 ## 🌱 Skills

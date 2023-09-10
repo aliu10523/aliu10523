@@ -3,7 +3,6 @@
 ## 💬 About ME
 - I'm getting my BA in computer science at the University of Virginia
 - I'm interning as a software engineer at Kerecis
-- I'm a full-stack developer
 <!--
 ## 🌱 Skills
 ![Alt Text](image_url)
